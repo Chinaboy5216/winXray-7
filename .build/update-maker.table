@@ -1,0 +1,5 @@
+{
+updateUrl="https://raw.githubusercontent.com/winXray/winXray/master/release/update/";
+description="发布 v2.4，放弃Xray/XTLS改为稳定内核V2rayCore，强力优化 PAC 代理模式，添加切换PAC与全局代理模式的热键。";
+outputDir="/release/update/"
+}
